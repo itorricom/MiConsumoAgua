@@ -27,8 +27,8 @@ document.getElementById('consultarBtn').addEventListener('click', () => {
         html += `
             <div class="card">
                 <h3>${mes.MES.charAt(0).toUpperCase() + mes.MES.slice(1)}</h3>
-                <p><strong>Mes Pasado:</strong> ${mes['MES PASADO']}</p>
-                <p><strong>Mes Actual:</strong> ${mes['MES ACTUAL']}</p>
+                <p><strong>Lectura Anterior:</strong> ${mes['MES PASADO']}</p>
+                <p><strong>Lectura Actual:</strong> ${mes['MES ACTUAL']}</p>
                 <p><strong>Metros Cúbicos:</strong> ${mes['METROS CUBICOS']}</p>
                 <p><strong>Monto (Bs):</strong> ${mes['MONTO EN BS']}</p>
             </div>
