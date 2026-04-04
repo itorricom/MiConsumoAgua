@@ -1,0 +1,4700 @@
+[
+    {
+        "cod": "1001",
+        "nombre": "FLORES CHOQUE CRISTINA 2",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 52,
+                "MES ACTUAL": 52,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 51,
+                "MES ACTUAL": 52,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 51,
+                "MES ACTUAL": 51,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "1243",
+        "nombre": "HINOJOSA FLORES DAMIANA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 435,
+                "MES ACTUAL": 446,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 427,
+                "MES ACTUAL": 435,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 418,
+                "MES ACTUAL": 427,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            }
+        ]
+    },
+    {
+        "cod": "1244",
+        "nombre": "HINOJOSA FLORINDA GLADIS",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 546,
+                "MES ACTUAL": 553,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 538,
+                "MES ACTUAL": 546,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 530,
+                "MES ACTUAL": 538,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            }
+        ]
+    },
+    {
+        "cod": "1438",
+        "nombre": "MAMANI MARIA VDA DE BORDA ",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 412,
+                "MES ACTUAL": 417,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 407,
+                "MES ACTUAL": 412,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 402,
+                "MES ACTUAL": 407,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "1532",
+        "nombre": "FLORES VIVEROS LUIS",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 825,
+                "MES ACTUAL": 839,
+                "METROS CUBICOS": 14,
+                "MONTO EN BS": 60
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 814,
+                "MES ACTUAL": 825,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 803,
+                "MES ACTUAL": 814,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            }
+        ]
+    },
+    {
+        "cod": "1533",
+        "nombre": "CHAVEZ QUISPE AGUSTIN",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 719,
+                "MES ACTUAL": 724,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 712,
+                "MES ACTUAL": 719,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 703,
+                "MES ACTUAL": 712,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            }
+        ]
+    },
+    {
+        "cod": "1534",
+        "nombre": "TORREZ ROCHA WILSON",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 278,
+                "MES ACTUAL": 281,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 275,
+                "MES ACTUAL": 278,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 272,
+                "MES ACTUAL": 275,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "1535",
+        "nombre": "RONDAL VERDUGUEZ CHARO ",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 392,
+                "MES ACTUAL": 396,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 384,
+                "MES ACTUAL": 392,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 380,
+                "MES ACTUAL": 384,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "1536",
+        "nombre": "CONDORI SULLCATA ISAC",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 82,
+                "MES ACTUAL": 82,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 82,
+                "MES ACTUAL": 82,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 82,
+                "MES ACTUAL": 82,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "1537",
+        "nombre": "FLORES LAURA WILFREDO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 2,
+                "MES ACTUAL": 2,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 2,
+                "MES ACTUAL": 2,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 2,
+                "MES ACTUAL": 2,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "1538",
+        "nombre": "ALVARADO DAZA SABINA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 684,
+                "MES ACTUAL": 692,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 676,
+                "MES ACTUAL": 684,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 666,
+                "MES ACTUAL": 676,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            }
+        ]
+    },
+    {
+        "cod": "1539",
+        "nombre": "CAYO COPA DORA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 493,
+                "MES ACTUAL": 495,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 490,
+                "MES ACTUAL": 493,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 489,
+                "MES ACTUAL": 490,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "1540",
+        "nombre": "MONTECINOS GREGORIO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 420,
+                "MES ACTUAL": 420,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 419,
+                "MES ACTUAL": 420,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 419,
+                "MES ACTUAL": 419,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "181",
+        "nombre": "MONTECINOS CACERES HEYDI",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 8,
+                "MES ACTUAL": 12,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 6,
+                "MES ACTUAL": 8,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 4,
+                "MES ACTUAL": 6,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "182",
+        "nombre": "ARIAS DANIEL",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 0,
+                "MES ACTUAL": 1,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 0,
+                "MES ACTUAL": 0,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 0,
+                "MES ACTUAL": 0,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "183",
+        "nombre": "FLORES ZARATE JUAN",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 11,
+                "MES ACTUAL": 18,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 5,
+                "MES ACTUAL": 11,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 0,
+                "MES ACTUAL": 5,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "184",
+        "nombre": "CRUZ BENIGNO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 6,
+                "MES ACTUAL": 9,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 3,
+                "MES ACTUAL": 6,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 0,
+                "MES ACTUAL": 3,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "185",
+        "nombre": "FLORES CALLE UBALDINA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 33,
+                "MES ACTUAL": 43,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 23,
+                "MES ACTUAL": 33,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 5,
+                "MES ACTUAL": 23,
+                "METROS CUBICOS": 18,
+                "MONTO EN BS": 80
+            }
+        ]
+    },
+    {
+        "cod": "2484",
+        "nombre": "CALLE CALLE PEDRO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 62,
+                "MES ACTUAL": 66,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 59,
+                "MES ACTUAL": 62,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 56,
+                "MES ACTUAL": 59,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2550",
+        "nombre": "ESPINOZA MEJIA ELENA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 376,
+                "MES ACTUAL": 381,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 374,
+                "MES ACTUAL": 376,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 372,
+                "MES ACTUAL": 374,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2551",
+        "nombre": "MAMANI PEREZ FELIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 364,
+                "MES ACTUAL": 369,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 361,
+                "MES ACTUAL": 364,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 356,
+                "MES ACTUAL": 361,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2552",
+        "nombre": "SEBASTIAN MAMANI PAULINA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 541,
+                "MES ACTUAL": 545,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 536,
+                "MES ACTUAL": 541,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 533,
+                "MES ACTUAL": 536,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2553",
+        "nombre": "SULCATA LETICIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 191,
+                "MES ACTUAL": 194,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 188,
+                "MES ACTUAL": 191,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 184,
+                "MES ACTUAL": 188,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2554",
+        "nombre": "BARRIENTOS SENOBIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 504,
+                "MES ACTUAL": 505,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 501,
+                "MES ACTUAL": 504,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 498,
+                "MES ACTUAL": 501,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2555",
+        "nombre": "CHUMBI MITA GENARO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 396,
+                "MES ACTUAL": 397,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 392,
+                "MES ACTUAL": 396,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 388,
+                "MES ACTUAL": 392,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2556",
+        "nombre": "VILLCA ALAVI RENE",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 547,
+                "MES ACTUAL": 552,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 541,
+                "MES ACTUAL": 547,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 537,
+                "MES ACTUAL": 541,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2558",
+        "nombre": "RIOS QUISPE TERESA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 964,
+                "MES ACTUAL": 977,
+                "METROS CUBICOS": 13,
+                "MONTO EN BS": 55
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 955,
+                "MES ACTUAL": 964,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 944,
+                "MES ACTUAL": 955,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            }
+        ]
+    },
+    {
+        "cod": "2559",
+        "nombre": "MONTECINOS MATILDE",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 130,
+                "MES ACTUAL": 130,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 130,
+                "MES ACTUAL": 130,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 130,
+                "MES ACTUAL": 130,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2560",
+        "nombre": "APAZA ESPINOZA ALFONSO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 542,
+                "MES ACTUAL": 548,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 536,
+                "MES ACTUAL": 542,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 533,
+                "MES ACTUAL": 536,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2561",
+        "nombre": "HUANCA PABLO JUAN AVIGAIL",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 171,
+                "MES ACTUAL": 173,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 169,
+                "MES ACTUAL": 171,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 167,
+                "MES ACTUAL": 169,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2562",
+        "nombre": "MAMANI RAMOS IGNACIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 417,
+                "MES ACTUAL": 423,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 412,
+                "MES ACTUAL": 417,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 406,
+                "MES ACTUAL": 412,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            }
+        ]
+    },
+    {
+        "cod": "2563",
+        "nombre": "FERNANDEZ LAURA LUIS ERIK",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 799,
+                "MES ACTUAL": 807,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 791,
+                "MES ACTUAL": 799,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 785,
+                "MES ACTUAL": 791,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            }
+        ]
+    },
+    {
+        "cod": "2564",
+        "nombre": "HUANCO VALLEJOS VICTORIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 738,
+                "MES ACTUAL": 744,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 728,
+                "MES ACTUAL": 738,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 717,
+                "MES ACTUAL": 728,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            }
+        ]
+    },
+    {
+        "cod": "2565",
+        "nombre": "CHOQUE HUANCA INDALICIO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 556,
+                "MES ACTUAL": 563,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 549,
+                "MES ACTUAL": 556,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 541,
+                "MES ACTUAL": 549,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            }
+        ]
+    },
+    {
+        "cod": "2566",
+        "nombre": "FLORES ZARATE ROBERTO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 564,
+                "MES ACTUAL": 569,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 559,
+                "MES ACTUAL": 564,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 556,
+                "MES ACTUAL": 559,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2567",
+        "nombre": "CACERES OROZCO MIKAELA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 381,
+                "MES ACTUAL": 386,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 380,
+                "MES ACTUAL": 381,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 376,
+                "MES ACTUAL": 380,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2568",
+        "nombre": "MAMANI EULOGIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 522,
+                "MES ACTUAL": 528,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 518,
+                "MES ACTUAL": 522,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 514,
+                "MES ACTUAL": 518,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2569",
+        "nombre": "PACCI CRUZ GUALBERTO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 624,
+                "MES ACTUAL": 630,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 620,
+                "MES ACTUAL": 624,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 615,
+                "MES ACTUAL": 620,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2570",
+        "nombre": "TORRICO MAMANI TEOFILA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 637,
+                "MES ACTUAL": 646,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 628,
+                "MES ACTUAL": 637,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 621,
+                "MES ACTUAL": 628,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            }
+        ]
+    },
+    {
+        "cod": "2571",
+        "nombre": "CALANI HUANCA JULIAN",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 396,
+                "MES ACTUAL": 401,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 392,
+                "MES ACTUAL": 396,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 388,
+                "MES ACTUAL": 392,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2572",
+        "nombre": "GUZMAN VARGAS MARGARITA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 303,
+                "MES ACTUAL": 307,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 299,
+                "MES ACTUAL": 303,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 297,
+                "MES ACTUAL": 299,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2573",
+        "nombre": "SAAVEDRA TECEROS EDWIN",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 653,
+                "MES ACTUAL": 659,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 646,
+                "MES ACTUAL": 653,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 641,
+                "MES ACTUAL": 646,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2574",
+        "nombre": "LAURA FLORES RENE",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 577,
+                "MES ACTUAL": 577,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 577,
+                "MES ACTUAL": 577,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 570,
+                "MES ACTUAL": 577,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            }
+        ]
+    },
+    {
+        "cod": "2575",
+        "nombre": "MEDRANO RODRÍGUEZ  VIRGILIO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 496,
+                "MES ACTUAL": 501,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 493,
+                "MES ACTUAL": 496,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 485,
+                "MES ACTUAL": 493,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            }
+        ]
+    },
+    {
+        "cod": "2576",
+        "nombre": "PAREJA KALLA SINFOROSA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 443,
+                "MES ACTUAL": 447,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 439,
+                "MES ACTUAL": 443,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 438,
+                "MES ACTUAL": 439,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2578",
+        "nombre": "GUZMAN VILLEGAS PAULINO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 386,
+                "MES ACTUAL": 393,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 380,
+                "MES ACTUAL": 386,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 373,
+                "MES ACTUAL": 380,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            }
+        ]
+    },
+    {
+        "cod": "2579",
+        "nombre": "CHOQUE ALVINA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 1043,
+                "MES ACTUAL": 1059,
+                "METROS CUBICOS": 16,
+                "MONTO EN BS": 70
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 1028,
+                "MES ACTUAL": 1043,
+                "METROS CUBICOS": 15,
+                "MONTO EN BS": 65
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 1021,
+                "MES ACTUAL": 1028,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            }
+        ]
+    },
+    {
+        "cod": "2580",
+        "nombre": "HUANCA HERRERA MARIO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 216,
+                "MES ACTUAL": 220,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 212,
+                "MES ACTUAL": 216,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 208,
+                "MES ACTUAL": 212,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2592",
+        "nombre": "MALDONADO CUSTODIO ZULMA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 390,
+                "MES ACTUAL": 394,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 387,
+                "MES ACTUAL": 390,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 382,
+                "MES ACTUAL": 387,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2593",
+        "nombre": "MIRANDA COLQUE  ISAIAS",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 377,
+                "MES ACTUAL": 386,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 369,
+                "MES ACTUAL": 377,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 364,
+                "MES ACTUAL": 369,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2594",
+        "nombre": "RIOS TORREZ ELVIRA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 287,
+                "MES ACTUAL": 287,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 286,
+                "MES ACTUAL": 287,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 286,
+                "MES ACTUAL": 286,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2595",
+        "nombre": "CAISIRI GERONIMO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 64,
+                "MES ACTUAL": 64,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 64,
+                "MES ACTUAL": 64,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 64,
+                "MES ACTUAL": 64,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2596",
+        "nombre": "CHAMBI CRUZ JUSTINIANO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 867,
+                "MES ACTUAL": 874,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 861,
+                "MES ACTUAL": 867,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 854,
+                "MES ACTUAL": 861,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            }
+        ]
+    },
+    {
+        "cod": "2597",
+        "nombre": "CAISIRI EDMUNDO 2",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 37,
+                "MES ACTUAL": 41,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 35,
+                "MES ACTUAL": 37,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 29,
+                "MES ACTUAL": 35,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            }
+        ]
+    },
+    {
+        "cod": "2598",
+        "nombre": "AYMA FERNANDEZ OLGA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 975,
+                "MES ACTUAL": 986,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 963,
+                "MES ACTUAL": 975,
+                "METROS CUBICOS": 12,
+                "MONTO EN BS": 50
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 952,
+                "MES ACTUAL": 963,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            }
+        ]
+    },
+    {
+        "cod": "2599",
+        "nombre": "CAISIRI EDMUNDO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 630,
+                "MES ACTUAL": 637,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 622,
+                "MES ACTUAL": 630,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 620,
+                "MES ACTUAL": 622,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2600",
+        "nombre": "CHOQUE HUANCA EDGAR",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 276,
+                "MES ACTUAL": 279,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 272,
+                "MES ACTUAL": 276,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 270,
+                "MES ACTUAL": 272,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2601",
+        "nombre": "CAISIRI PAULINO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 627,
+                "MES ACTUAL": 632,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 618,
+                "MES ACTUAL": 627,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 616,
+                "MES ACTUAL": 618,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2602",
+        "nombre": "LAURA CANQUI NIEVES",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 644,
+                "MES ACTUAL": 651,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 638,
+                "MES ACTUAL": 644,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 632,
+                "MES ACTUAL": 638,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            }
+        ]
+    },
+    {
+        "cod": "2603",
+        "nombre": "MEJIA CALLE EDDY",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 671,
+                "MES ACTUAL": 680,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 662,
+                "MES ACTUAL": 671,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 654,
+                "MES ACTUAL": 662,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            }
+        ]
+    },
+    {
+        "cod": "2604",
+        "nombre": "LAURA CANQUI MARIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 721,
+                "MES ACTUAL": 729,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 713,
+                "MES ACTUAL": 721,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 706,
+                "MES ACTUAL": 713,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            }
+        ]
+    },
+    {
+        "cod": "2605",
+        "nombre": "SERRANO MAMANI ROLANDO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 665,
+                "MES ACTUAL": 678,
+                "METROS CUBICOS": 13,
+                "MONTO EN BS": 55
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 655,
+                "MES ACTUAL": 665,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 645,
+                "MES ACTUAL": 655,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            }
+        ]
+    },
+    {
+        "cod": "2606",
+        "nombre": "CANQUI CLETA RITA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 650,
+                "MES ACTUAL": 657,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 644,
+                "MES ACTUAL": 650,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 638,
+                "MES ACTUAL": 644,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            }
+        ]
+    },
+    {
+        "cod": "2607",
+        "nombre": "VASQUEZ ESPINOZA ALICIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 448,
+                "MES ACTUAL": 453,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 444,
+                "MES ACTUAL": 448,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 439,
+                "MES ACTUAL": 444,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2608",
+        "nombre": "NINA JULIAN ESPERANZA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 821,
+                "MES ACTUAL": 833,
+                "METROS CUBICOS": 12,
+                "MONTO EN BS": 50
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 809,
+                "MES ACTUAL": 821,
+                "METROS CUBICOS": 12,
+                "MONTO EN BS": 50
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 795,
+                "MES ACTUAL": 809,
+                "METROS CUBICOS": 14,
+                "MONTO EN BS": 60
+            }
+        ]
+    },
+    {
+        "cod": "2609",
+        "nombre": "HEBAS LOPEZ ROSA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 330,
+                "MES ACTUAL": 334,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 327,
+                "MES ACTUAL": 330,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 317,
+                "MES ACTUAL": 327,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            }
+        ]
+    },
+    {
+        "cod": "2692",
+        "nombre": "MEJIA MAMANI OCTAVIO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 602,
+                "MES ACTUAL": 609,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 595,
+                "MES ACTUAL": 602,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 590,
+                "MES ACTUAL": 595,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2693",
+        "nombre": "ILLANES MAMANI RIERY JAVIER",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 323,
+                "MES ACTUAL": 328,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 318,
+                "MES ACTUAL": 323,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 312,
+                "MES ACTUAL": 318,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            }
+        ]
+    },
+    {
+        "cod": "2694",
+        "nombre": "PAREDES CORDOVA RUDY",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 349,
+                "MES ACTUAL": 352,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 345,
+                "MES ACTUAL": 349,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 340,
+                "MES ACTUAL": 345,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2695",
+        "nombre": "JANKO JULIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 572,
+                "MES ACTUAL": 585,
+                "METROS CUBICOS": 13,
+                "MONTO EN BS": 55
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 563,
+                "MES ACTUAL": 572,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 553,
+                "MES ACTUAL": 563,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            }
+        ]
+    },
+    {
+        "cod": "2696",
+        "nombre": "MERCADO CUEVAS LUZ AMPARO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 726,
+                "MES ACTUAL": 733,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 717,
+                "MES ACTUAL": 726,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 710,
+                "MES ACTUAL": 717,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            }
+        ]
+    },
+    {
+        "cod": "2697",
+        "nombre": "MERCADO CUEVAS MARIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 892,
+                "MES ACTUAL": 905,
+                "METROS CUBICOS": 13,
+                "MONTO EN BS": 55
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 880,
+                "MES ACTUAL": 892,
+                "METROS CUBICOS": 12,
+                "MONTO EN BS": 50
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 866,
+                "MES ACTUAL": 880,
+                "METROS CUBICOS": 14,
+                "MONTO EN BS": 60
+            }
+        ]
+    },
+    {
+        "cod": "2698",
+        "nombre": "TARDIO PACO CLOTILDE",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 511,
+                "MES ACTUAL": 516,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 505,
+                "MES ACTUAL": 511,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 502,
+                "MES ACTUAL": 505,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2699",
+        "nombre": "MARCA SARSURI ADA ALBERTA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 1,
+                "MES ACTUAL": 1,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 1,
+                "MES ACTUAL": 1,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 1,
+                "MES ACTUAL": 1,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "2700",
+        "nombre": "PINTO ALAVE LIMBER",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 1096,
+                "MES ACTUAL": 1115,
+                "METROS CUBICOS": 19,
+                "MONTO EN BS": 85
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 1078,
+                "MES ACTUAL": 1096,
+                "METROS CUBICOS": 18,
+                "MONTO EN BS": 80
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 1063,
+                "MES ACTUAL": 1078,
+                "METROS CUBICOS": 15,
+                "MONTO EN BS": 65
+            }
+        ]
+    },
+    {
+        "cod": "2701",
+        "nombre": "RIOS  CUEVAS ROSENDO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 300,
+                "MES ACTUAL": 304,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 299,
+                "MES ACTUAL": 300,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 295,
+                "MES ACTUAL": 299,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3279",
+        "nombre": "PEÑAFIEL HERNAN",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 1070,
+                "MES ACTUAL": 1102,
+                "METROS CUBICOS": 32,
+                "MONTO EN BS": 150
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 1056,
+                "MES ACTUAL": 1070,
+                "METROS CUBICOS": 14,
+                "MONTO EN BS": 60
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 1034,
+                "MES ACTUAL": 1056,
+                "METROS CUBICOS": 22,
+                "MONTO EN BS": 100
+            }
+        ]
+    },
+    {
+        "cod": "3387",
+        "nombre": "CHOQUE HUANCA BARTOLINA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 455,
+                "MES ACTUAL": 458,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 452,
+                "MES ACTUAL": 455,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 450,
+                "MES ACTUAL": 452,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3529",
+        "nombre": "TARQUI REYMUNDO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 226,
+                "MES ACTUAL": 226,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 225,
+                "MES ACTUAL": 226,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 225,
+                "MES ACTUAL": 225,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3532",
+        "nombre": "CARDOZO Z. LUIS FERNANDO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 0,
+                "MES ACTUAL": 0,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 0,
+                "MES ACTUAL": 0,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 0,
+                "MES ACTUAL": 0,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3533",
+        "nombre": "COAQUIRA ARMAS VICTORIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 704,
+                "MES ACTUAL": 713,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 697,
+                "MES ACTUAL": 704,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 688,
+                "MES ACTUAL": 697,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            }
+        ]
+    },
+    {
+        "cod": "3534",
+        "nombre": "MAYTA LOPEZ ANIBAL1",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 417,
+                "MES ACTUAL": 414,
+                "METROS CUBICOS": -3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 412,
+                "MES ACTUAL": 417,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 410,
+                "MES ACTUAL": 412,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3535",
+        "nombre": "NATALIO ALEJO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 768,
+                "MES ACTUAL": 773,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 764,
+                "MES ACTUAL": 768,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 760,
+                "MES ACTUAL": 764,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3536",
+        "nombre": "CHOQUE HUANCA FLORINDA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 100,
+                "MES ACTUAL": 101,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 99,
+                "MES ACTUAL": 100,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 96,
+                "MES ACTUAL": 99,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3537",
+        "nombre": "MAMANI CACHI AURORA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 50,
+                "MES ACTUAL": 50,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 50,
+                "MES ACTUAL": 50,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 50,
+                "MES ACTUAL": 50,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3538",
+        "nombre": "POMA COLQUE JULIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 149,
+                "MES ACTUAL": 151,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 147,
+                "MES ACTUAL": 149,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 145,
+                "MES ACTUAL": 147,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3539",
+        "nombre": "MAYTA LOPEZ ANIBAL2",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 434,
+                "MES ACTUAL": 436,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 429,
+                "MES ACTUAL": 434,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 425,
+                "MES ACTUAL": 429,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3540",
+        "nombre": "FLORES ZARATE JULIAN",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 566,
+                "MES ACTUAL": 571,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 561,
+                "MES ACTUAL": 566,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 558,
+                "MES ACTUAL": 561,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3541",
+        "nombre": "ESPINOZA MEJIA JUANA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 395,
+                "MES ACTUAL": 395,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 395,
+                "MES ACTUAL": 395,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 395,
+                "MES ACTUAL": 395,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3882",
+        "nombre": "ASENCIO RIOS NILSON",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 717,
+                "MES ACTUAL": 725,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 709,
+                "MES ACTUAL": 717,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 699,
+                "MES ACTUAL": 709,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            }
+        ]
+    },
+    {
+        "cod": "3883",
+        "nombre": "TORREZ CABAGNI EUFRACIO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 399,
+                "MES ACTUAL": 403,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 396,
+                "MES ACTUAL": 399,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 394,
+                "MES ACTUAL": 396,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3884",
+        "nombre": "GUZMAN JORGE",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 589,
+                "MES ACTUAL": 601,
+                "METROS CUBICOS": 12,
+                "MONTO EN BS": 50
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 582,
+                "MES ACTUAL": 589,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 574,
+                "MES ACTUAL": 582,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            }
+        ]
+    },
+    {
+        "cod": "3885",
+        "nombre": "MONTECINOS GUTIÉRREZ MARTHA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 682,
+                "MES ACTUAL": 693,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 674,
+                "MES ACTUAL": 682,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 664,
+                "MES ACTUAL": 674,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            }
+        ]
+    },
+    {
+        "cod": "3886",
+        "nombre": "MATIAS MARCA JIMENA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 394,
+                "MES ACTUAL": 398,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 393,
+                "MES ACTUAL": 394,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 383,
+                "MES ACTUAL": 393,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            }
+        ]
+    },
+    {
+        "cod": "3887",
+        "nombre": "PLATA MAMANI LOURDES",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 293,
+                "MES ACTUAL": 296,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 291,
+                "MES ACTUAL": 293,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 289,
+                "MES ACTUAL": 291,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3888",
+        "nombre": "LIMA SEGUNDINA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 571,
+                "MES ACTUAL": 576,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 568,
+                "MES ACTUAL": 571,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 564,
+                "MES ACTUAL": 568,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3889",
+        "nombre": "PASCUAL CHURA ANA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 491,
+                "MES ACTUAL": 498,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 485,
+                "MES ACTUAL": 491,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 479,
+                "MES ACTUAL": 485,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            }
+        ]
+    },
+    {
+        "cod": "3890",
+        "nombre": "LÓPEZ LEDEZMA INCARNO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 722,
+                "MES ACTUAL": 736,
+                "METROS CUBICOS": 14,
+                "MONTO EN BS": 60
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 706,
+                "MES ACTUAL": 722,
+                "METROS CUBICOS": 16,
+                "MONTO EN BS": 70
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 694,
+                "MES ACTUAL": 706,
+                "METROS CUBICOS": 12,
+                "MONTO EN BS": 50
+            }
+        ]
+    },
+    {
+        "cod": "3891",
+        "nombre": "MURUCHI COPALI SERGIO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 600,
+                "MES ACTUAL": 603,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 596,
+                "MES ACTUAL": 600,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 587,
+                "MES ACTUAL": 596,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            }
+        ]
+    },
+    {
+        "cod": "3892",
+        "nombre": "ZENTENO OCTAVIO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 661,
+                "MES ACTUAL": 664,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 657,
+                "MES ACTUAL": 661,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 652,
+                "MES ACTUAL": 657,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3893",
+        "nombre": "TORRICO MAMANI MARGARITA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 438,
+                "MES ACTUAL": 444,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 431,
+                "MES ACTUAL": 438,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 428,
+                "MES ACTUAL": 431,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3894",
+        "nombre": "VALERO GUARAYO VICENTE",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 532,
+                "MES ACTUAL": 538,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 526,
+                "MES ACTUAL": 532,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 518,
+                "MES ACTUAL": 526,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            }
+        ]
+    },
+    {
+        "cod": "3895",
+        "nombre": "QUIROZ TITO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 1095,
+                "MES ACTUAL": 1102,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 1089,
+                "MES ACTUAL": 1095,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 1080,
+                "MES ACTUAL": 1089,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            }
+        ]
+    },
+    {
+        "cod": "3896",
+        "nombre": "AYALA DANTE",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 2060,
+                "MES ACTUAL": 2091,
+                "METROS CUBICOS": 31,
+                "MONTO EN BS": 145
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 2034,
+                "MES ACTUAL": 2060,
+                "METROS CUBICOS": 26,
+                "MONTO EN BS": 120
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 2011,
+                "MES ACTUAL": 2034,
+                "METROS CUBICOS": 23,
+                "MONTO EN BS": 105
+            }
+        ]
+    },
+    {
+        "cod": "3897",
+        "nombre": "FLORES VIVEROS DAMIANA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 805,
+                "MES ACTUAL": 813,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 797,
+                "MES ACTUAL": 805,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 788,
+                "MES ACTUAL": 797,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            }
+        ]
+    },
+    {
+        "cod": "3898",
+        "nombre": "FLORES CHOQUE CRISTINA 1",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 678,
+                "MES ACTUAL": 682,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 675,
+                "MES ACTUAL": 678,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 672,
+                "MES ACTUAL": 675,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3899",
+        "nombre": "MIRANDA MONTECINOS NICOLAS",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 985,
+                "MES ACTUAL": 997,
+                "METROS CUBICOS": 12,
+                "MONTO EN BS": 50
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 974,
+                "MES ACTUAL": 985,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 963,
+                "MES ACTUAL": 974,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            }
+        ]
+    },
+    {
+        "cod": "3900",
+        "nombre": "CONDORI MARCA ABDON",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 234,
+                "MES ACTUAL": 237,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 233,
+                "MES ACTUAL": 234,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 231,
+                "MES ACTUAL": 233,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3901",
+        "nombre": "FRANCISCANO M. JACINTO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 1062,
+                "MES ACTUAL": 1077,
+                "METROS CUBICOS": 15,
+                "MONTO EN BS": 65
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 1054,
+                "MES ACTUAL": 1062,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 1045,
+                "MES ACTUAL": 1054,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            }
+        ]
+    },
+    {
+        "cod": "3902",
+        "nombre": "NINA JULIAN WILFREDO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 693,
+                "MES ACTUAL": 700,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 686,
+                "MES ACTUAL": 693,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 681,
+                "MES ACTUAL": 686,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3903",
+        "nombre": "GIL CRUZ CLAUDIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 882,
+                "MES ACTUAL": 904,
+                "METROS CUBICOS": 22,
+                "MONTO EN BS": 100
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 863,
+                "MES ACTUAL": 882,
+                "METROS CUBICOS": 19,
+                "MONTO EN BS": 85
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 840,
+                "MES ACTUAL": 863,
+                "METROS CUBICOS": 23,
+                "MONTO EN BS": 105
+            }
+        ]
+    },
+    {
+        "cod": "3904",
+        "nombre": "ACUÑA VILCA FACUNDO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 177,
+                "MES ACTUAL": 178,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 176,
+                "MES ACTUAL": 177,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 175,
+                "MES ACTUAL": 176,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3905",
+        "nombre": "CONDORI ALICIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 687,
+                "MES ACTUAL": 693,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 684,
+                "MES ACTUAL": 687,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 682,
+                "MES ACTUAL": 684,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3906",
+        "nombre": "LAURA FLORES MAGNO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 675,
+                "MES ACTUAL": 688,
+                "METROS CUBICOS": 13,
+                "MONTO EN BS": 55
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 662,
+                "MES ACTUAL": 675,
+                "METROS CUBICOS": 13,
+                "MONTO EN BS": 55
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 648,
+                "MES ACTUAL": 662,
+                "METROS CUBICOS": 14,
+                "MONTO EN BS": 60
+            }
+        ]
+    },
+    {
+        "cod": "3907",
+        "nombre": "QUISPE JAMILLO DIONICIO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 748,
+                "MES ACTUAL": 754,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 742,
+                "MES ACTUAL": 748,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 737,
+                "MES ACTUAL": 742,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3908",
+        "nombre": "GIL CRUZ VIRGINIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 61,
+                "MES ACTUAL": 61,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 61,
+                "MES ACTUAL": 61,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 61,
+                "MES ACTUAL": 61,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3909",
+        "nombre": "TORRICO MAMANI SOFIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 582,
+                "MES ACTUAL": 588,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 577,
+                "MES ACTUAL": 582,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 571,
+                "MES ACTUAL": 577,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            }
+        ]
+    },
+    {
+        "cod": "3910",
+        "nombre": "SILES VARGAS LILIAN F.",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 659,
+                "MES ACTUAL": 664,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 654,
+                "MES ACTUAL": 659,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 648,
+                "MES ACTUAL": 654,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            }
+        ]
+    },
+    {
+        "cod": "3911",
+        "nombre": "CHOQUE FLORES TEOFILO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 559,
+                "MES ACTUAL": 566,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 554,
+                "MES ACTUAL": 559,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 549,
+                "MES ACTUAL": 554,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3912",
+        "nombre": "ESPINOZA CHAMBI DEUNICIO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 651,
+                "MES ACTUAL": 661,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 641,
+                "MES ACTUAL": 651,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 634,
+                "MES ACTUAL": 641,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            }
+        ]
+    },
+    {
+        "cod": "3913",
+        "nombre": "RAMIRES CONDORI ALBERTO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 566,
+                "MES ACTUAL": 571,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 561,
+                "MES ACTUAL": 566,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 557,
+                "MES ACTUAL": 561,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3914",
+        "nombre": "MATIAS CONDORI PRIMO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 374,
+                "MES ACTUAL": 376,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 372,
+                "MES ACTUAL": 374,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 370,
+                "MES ACTUAL": 372,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3915",
+        "nombre": "ACUÑA GABRIEL GERMAN",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 206,
+                "MES ACTUAL": 209,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 203,
+                "MES ACTUAL": 206,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 201,
+                "MES ACTUAL": 203,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3916",
+        "nombre": "CUAQUIRA DE CHOQUE EMETERIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 40,
+                "MES ACTUAL": 43,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 40,
+                "MES ACTUAL": 40,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 40,
+                "MES ACTUAL": 40,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3917",
+        "nombre": "RAMOS LOPEZ OSCAR",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 907,
+                "MES ACTUAL": 916,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 898,
+                "MES ACTUAL": 907,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 889,
+                "MES ACTUAL": 898,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            }
+        ]
+    },
+    {
+        "cod": "3918",
+        "nombre": "RAMOS LOPEZ MIRIAM",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 301,
+                "MES ACTUAL": 314,
+                "METROS CUBICOS": 13,
+                "MONTO EN BS": 55
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 293,
+                "MES ACTUAL": 301,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 284,
+                "MES ACTUAL": 293,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            }
+        ]
+    },
+    {
+        "cod": "3919",
+        "nombre": "LOPEZ CHUMBI CASILDA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 694,
+                "MES ACTUAL": 697,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 683,
+                "MES ACTUAL": 694,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 679,
+                "MES ACTUAL": 683,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "3920",
+        "nombre": "QUISPE CRUZ ESPERANZA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 1549,
+                "MES ACTUAL": 1564,
+                "METROS CUBICOS": 15,
+                "MONTO EN BS": 65
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 1538,
+                "MES ACTUAL": 1549,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 1524,
+                "MES ACTUAL": 1538,
+                "METROS CUBICOS": 14,
+                "MONTO EN BS": 60
+            }
+        ]
+    },
+    {
+        "cod": "3921",
+        "nombre": "RIOS GRACIELA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 1173,
+                "MES ACTUAL": 1188,
+                "METROS CUBICOS": 15,
+                "MONTO EN BS": 65
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 1163,
+                "MES ACTUAL": 1173,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 1150,
+                "MES ACTUAL": 1163,
+                "METROS CUBICOS": 13,
+                "MONTO EN BS": 55
+            }
+        ]
+    },
+    {
+        "cod": "4022",
+        "nombre": "AYMA FERNANDEZ PABLO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 69,
+                "MES ACTUAL": 75,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 64,
+                "MES ACTUAL": 69,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 59,
+                "MES ACTUAL": 64,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "4112",
+        "nombre": "IGLESIA ADVENTISTA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 208,
+                "MES ACTUAL": 208,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 207,
+                "MES ACTUAL": 208,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 206,
+                "MES ACTUAL": 207,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "4113",
+        "nombre": "MEDRANO SANIZO ELOINA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 751,
+                "MES ACTUAL": 756,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 740,
+                "MES ACTUAL": 751,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 729,
+                "MES ACTUAL": 740,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            }
+        ]
+    },
+    {
+        "cod": "4114",
+        "nombre": "VASQUEZ GUILLERMO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 669,
+                "MES ACTUAL": 670,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 667,
+                "MES ACTUAL": 669,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 663,
+                "MES ACTUAL": 667,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "4115",
+        "nombre": "ZENTENO ORELLANA TEODORA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 960,
+                "MES ACTUAL": 985,
+                "METROS CUBICOS": 25,
+                "MONTO EN BS": 115
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 943,
+                "MES ACTUAL": 960,
+                "METROS CUBICOS": 17,
+                "MONTO EN BS": 75
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 921,
+                "MES ACTUAL": 943,
+                "METROS CUBICOS": 22,
+                "MONTO EN BS": 100
+            }
+        ]
+    },
+    {
+        "cod": "4116",
+        "nombre": "MARCA ALEJANDRO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 689,
+                "MES ACTUAL": 693,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 673,
+                "MES ACTUAL": 689,
+                "METROS CUBICOS": 16,
+                "MONTO EN BS": 70
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 656,
+                "MES ACTUAL": 673,
+                "METROS CUBICOS": 17,
+                "MONTO EN BS": 75
+            }
+        ]
+    },
+    {
+        "cod": "4117",
+        "nombre": "MONRROY MORALES DAVID",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 484,
+                "MES ACTUAL": 489,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 479,
+                "MES ACTUAL": 484,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 473,
+                "MES ACTUAL": 479,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            }
+        ]
+    },
+    {
+        "cod": "4118",
+        "nombre": "HINOJOSA ROMERO IVETH DEYSI",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 1543,
+                "MES ACTUAL": 1543,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 1530,
+                "MES ACTUAL": 1543,
+                "METROS CUBICOS": 13,
+                "MONTO EN BS": 55
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 1511,
+                "MES ACTUAL": 1530,
+                "METROS CUBICOS": 19,
+                "MONTO EN BS": 85
+            }
+        ]
+    },
+    {
+        "cod": "4119",
+        "nombre": "CARATA AMALIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 75,
+                "MES ACTUAL": 75,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 75,
+                "MES ACTUAL": 75,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 75,
+                "MES ACTUAL": 75,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "4120",
+        "nombre": "QUIRUCHI HUARAYO NATALIA ",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 256,
+                "MES ACTUAL": 260,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 253,
+                "MES ACTUAL": 256,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 249,
+                "MES ACTUAL": 253,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "4121",
+        "nombre": "QUIRUCHI JULIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 377,
+                "MES ACTUAL": 386,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 366,
+                "MES ACTUAL": 377,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 356,
+                "MES ACTUAL": 366,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            }
+        ]
+    },
+    {
+        "cod": "4182",
+        "nombre": "SANCHEZ PAULINA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 475,
+                "MES ACTUAL": 479,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 473,
+                "MES ACTUAL": 475,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 469,
+                "MES ACTUAL": 473,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "4183",
+        "nombre": "APAZA MAMANI OLMA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 407,
+                "MES ACTUAL": 413,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 402,
+                "MES ACTUAL": 407,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 399,
+                "MES ACTUAL": 402,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "4184",
+        "nombre": "HUANCA CALANI BOSCO RIGOBERTO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 661,
+                "MES ACTUAL": 672,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 653,
+                "MES ACTUAL": 661,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 642,
+                "MES ACTUAL": 653,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            }
+        ]
+    },
+    {
+        "cod": "4185",
+        "nombre": "PAREDES CORDOVA LENY",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 166,
+                "MES ACTUAL": 169,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 164,
+                "MES ACTUAL": 166,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 163,
+                "MES ACTUAL": 164,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "4186",
+        "nombre": "MAMANI TEJERINA J. MANUEL",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 0,
+                "MES ACTUAL": 0,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 0,
+                "MES ACTUAL": 0,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 0,
+                "MES ACTUAL": 0,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "4187",
+        "nombre": "VALLEJOS DAVALOS LUCY MIRIAN",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 489,
+                "MES ACTUAL": 499,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 481,
+                "MES ACTUAL": 489,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 475,
+                "MES ACTUAL": 481,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            }
+        ]
+    },
+    {
+        "cod": "4188",
+        "nombre": "CHAMBILLA SANCHEZ ELSA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 786,
+                "MES ACTUAL": 792,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 783,
+                "MES ACTUAL": 786,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 779,
+                "MES ACTUAL": 783,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "4189",
+        "nombre": "QUISPE SANTOS CARMELA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 510,
+                "MES ACTUAL": 517,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 505,
+                "MES ACTUAL": 510,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 500,
+                "MES ACTUAL": 505,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "4190",
+        "nombre": "TOLA FLORES LORENZO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 187,
+                "MES ACTUAL": 192,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 184,
+                "MES ACTUAL": 187,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 183,
+                "MES ACTUAL": 184,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "4191",
+        "nombre": "TEJERINA LOPEZ ANA MARIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 0,
+                "MES ACTUAL": 0,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 0,
+                "MES ACTUAL": 0,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 0,
+                "MES ACTUAL": 0,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "4237",
+        "nombre": "CALANI FLORES DAVID",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 514,
+                "MES ACTUAL": 529,
+                "METROS CUBICOS": 15,
+                "MONTO EN BS": 65
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 499,
+                "MES ACTUAL": 514,
+                "METROS CUBICOS": 15,
+                "MONTO EN BS": 65
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 484,
+                "MES ACTUAL": 499,
+                "METROS CUBICOS": 15,
+                "MONTO EN BS": 65
+            }
+        ]
+    },
+    {
+        "cod": "4813",
+        "nombre": "AGUAYO JACHACATA INOCENCIO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 87,
+                "MES ACTUAL": 89,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 86,
+                "MES ACTUAL": 87,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 85,
+                "MES ACTUAL": 86,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "6087",
+        "nombre": "CONDORI ARCENIO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 703,
+                "MES ACTUAL": 712,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 695,
+                "MES ACTUAL": 703,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 686,
+                "MES ACTUAL": 695,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            }
+        ]
+    },
+    {
+        "cod": "6088",
+        "nombre": "ESPINOSA MEJIA ROSMERY",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 69,
+                "MES ACTUAL": 71,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 67,
+                "MES ACTUAL": 69,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 66,
+                "MES ACTUAL": 67,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "6089",
+        "nombre": "FELICIANO GARCIA PONCIANO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 89,
+                "MES ACTUAL": 89,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 89,
+                "MES ACTUAL": 89,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 89,
+                "MES ACTUAL": 89,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "6261",
+        "nombre": "MENDOZA ARANCIBIA ROBERTO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 340,
+                "MES ACTUAL": 346,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 335,
+                "MES ACTUAL": 340,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 328,
+                "MES ACTUAL": 335,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            }
+        ]
+    },
+    {
+        "cod": "6262",
+        "nombre": "GUTIERRES SILVESTRE ABRAHAM",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 367,
+                "MES ACTUAL": 368,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 365,
+                "MES ACTUAL": 367,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 363,
+                "MES ACTUAL": 365,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "6263",
+        "nombre": "DELGADO QUINTA WILDER",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 1464,
+                "MES ACTUAL": 1498,
+                "METROS CUBICOS": 34,
+                "MONTO EN BS": 160
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 1445,
+                "MES ACTUAL": 1464,
+                "METROS CUBICOS": 19,
+                "MONTO EN BS": 85
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 1424,
+                "MES ACTUAL": 1445,
+                "METROS CUBICOS": 21,
+                "MONTO EN BS": 95
+            }
+        ]
+    },
+    {
+        "cod": "6264",
+        "nombre": "ACEBEY ANDIA EDSON AMILKAR",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 586,
+                "MES ACTUAL": 592,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 580,
+                "MES ACTUAL": 586,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 574,
+                "MES ACTUAL": 580,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            }
+        ]
+    },
+    {
+        "cod": "6265",
+        "nombre": "QUISPE CHINO JUAN JAIME",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 477,
+                "MES ACTUAL": 482,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 472,
+                "MES ACTUAL": 477,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 468,
+                "MES ACTUAL": 472,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "6266",
+        "nombre": "AYMA FERNANDEZ MARISOL",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 339,
+                "MES ACTUAL": 345,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 334,
+                "MES ACTUAL": 339,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 329,
+                "MES ACTUAL": 334,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "6848",
+        "nombre": "FLORES ENCALADA MARIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 785,
+                "MES ACTUAL": 794,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 777,
+                "MES ACTUAL": 785,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 769,
+                "MES ACTUAL": 777,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            }
+        ]
+    },
+    {
+        "cod": "6972",
+        "nombre": "CAMACHO HUANCO ZANDI",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 382,
+                "MES ACTUAL": 396,
+                "METROS CUBICOS": 14,
+                "MONTO EN BS": 60
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 370,
+                "MES ACTUAL": 382,
+                "METROS CUBICOS": 12,
+                "MONTO EN BS": 50
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 355,
+                "MES ACTUAL": 370,
+                "METROS CUBICOS": 15,
+                "MONTO EN BS": 65
+            }
+        ]
+    },
+    {
+        "cod": "7487",
+        "nombre": "RIOS VICTOR HUGO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 285,
+                "MES ACTUAL": 292,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 280,
+                "MES ACTUAL": 285,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 273,
+                "MES ACTUAL": 280,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            }
+        ]
+    },
+    {
+        "cod": "7488",
+        "nombre": "GIL CRUZ BENIGNA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 145,
+                "MES ACTUAL": 145,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 145,
+                "MES ACTUAL": 145,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 143,
+                "MES ACTUAL": 145,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "8844",
+        "nombre": "ACEBEY SUBELZA MAXIMO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 176,
+                "MES ACTUAL": 186,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 165,
+                "MES ACTUAL": 176,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 152,
+                "MES ACTUAL": 165,
+                "METROS CUBICOS": 13,
+                "MONTO EN BS": 55
+            }
+        ]
+    },
+    {
+        "cod": "9219",
+        "nombre": "ESPINOSA MEJIA ROGELIO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 66,
+                "MES ACTUAL": 70,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 63,
+                "MES ACTUAL": 66,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 58,
+                "MES ACTUAL": 63,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "9651",
+        "nombre": "PEÑARANDA MARAZ SILVIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 204,
+                "MES ACTUAL": 212,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 197,
+                "MES ACTUAL": 204,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 187,
+                "MES ACTUAL": 197,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            }
+        ]
+    },
+    {
+        "cod": "9928",
+        "nombre": "FELICIANO JOSE ERNESTO",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 217,
+                "MES ACTUAL": 226,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 209,
+                "MES ACTUAL": 217,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 208,
+                "MES ACTUAL": 209,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "9929",
+        "nombre": "RIOS QUISPE EDWIN",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 144,
+                "MES ACTUAL": 147,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 139,
+                "MES ACTUAL": 144,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 134,
+                "MES ACTUAL": 139,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "9930",
+        "nombre": "HINOJOSA FLORES JOSE",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 398,
+                "MES ACTUAL": 407,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 392,
+                "MES ACTUAL": 398,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 385,
+                "MES ACTUAL": 392,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            }
+        ]
+    },
+    {
+        "cod": "9931",
+        "nombre": "SALSURI CESARIA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 214,
+                "MES ACTUAL": 215,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 214,
+                "MES ACTUAL": 214,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 214,
+                "MES ACTUAL": 214,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "9932",
+        "nombre": "GARCIA ROMERO VILMA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 440,
+                "MES ACTUAL": 442,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 436,
+                "MES ACTUAL": 440,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 433,
+                "MES ACTUAL": 436,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "9935",
+        "nombre": "ROJAS ARCE JUANA",
+        "meses": [
+            {
+                "MES": "marzo",
+                "MES PASADO": 169,
+                "MES ACTUAL": 170,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 167,
+                "MES ACTUAL": 169,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 166,
+                "MES ACTUAL": 167,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            }
+        ]
+    }
+]

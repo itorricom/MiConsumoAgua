@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta de Consumos de Agua</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <img src="logo.png" alt="Logo" >
+        </div>        
+        <h3>CONSULTA TUS CONSUMOS DE AGUA</h3>
+        <p>Ingresa los últimos 4 dígitos de la serie de tu medidor:</p>
+        <input type="text" id="codigoInput" placeholder="Ej: 1234" maxlength="4" pattern="\d{4}">
+        <button id="consultarBtn">Consultar</button>
+        <div id="resultado"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
