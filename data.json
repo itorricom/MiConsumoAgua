@@ -4,6 +4,13 @@
         "nombre": "FLORES CHOQUE CRISTINA 2",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 52,
+                "MES ACTUAL": 52,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 52,
                 "MES ACTUAL": 52,
@@ -30,6 +37,13 @@
         "cod": "1243",
         "nombre": "HINOJOSA FLORES DAMIANA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 446,
+                "MES ACTUAL": 454,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 435,
@@ -58,6 +72,13 @@
         "nombre": "HINOJOSA FLORINDA GLADIS",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 553,
+                "MES ACTUAL": 561,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 546,
                 "MES ACTUAL": 553,
@@ -84,6 +105,13 @@
         "cod": "1438",
         "nombre": "MAMANI MARIA VDA DE BORDA ",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 417,
+                "MES ACTUAL": 422,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 412,
@@ -112,6 +140,13 @@
         "nombre": "FLORES VIVEROS LUIS",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 839,
+                "MES ACTUAL": 852,
+                "METROS CUBICOS": 13,
+                "MONTO EN BS": 55
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 825,
                 "MES ACTUAL": 839,
@@ -138,6 +173,13 @@
         "cod": "1533",
         "nombre": "CHAVEZ QUISPE AGUSTIN",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 724,
+                "MES ACTUAL": 729,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 719,
@@ -166,6 +208,13 @@
         "nombre": "TORREZ ROCHA WILSON",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 281,
+                "MES ACTUAL": 284,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 278,
                 "MES ACTUAL": 281,
@@ -192,6 +241,13 @@
         "cod": "1535",
         "nombre": "RONDAL VERDUGUEZ CHARO ",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 396,
+                "MES ACTUAL": 397,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 392,
@@ -220,6 +276,13 @@
         "nombre": "CONDORI SULLCATA ISAC",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 82,
+                "MES ACTUAL": 85,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 82,
                 "MES ACTUAL": 82,
@@ -246,6 +309,13 @@
         "cod": "1537",
         "nombre": "FLORES LAURA WILFREDO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 2,
+                "MES ACTUAL": 2,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 2,
@@ -274,6 +344,13 @@
         "nombre": "ALVARADO DAZA SABINA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 692,
+                "MES ACTUAL": 698,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 684,
                 "MES ACTUAL": 692,
@@ -300,6 +377,13 @@
         "cod": "1539",
         "nombre": "CAYO COPA DORA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 495,
+                "MES ACTUAL": 495,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 493,
@@ -328,6 +412,13 @@
         "nombre": "MONTECINOS GREGORIO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 420,
+                "MES ACTUAL": 420,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 420,
                 "MES ACTUAL": 420,
@@ -354,6 +445,13 @@
         "cod": "181",
         "nombre": "MONTECINOS CACERES HEYDI",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 12,
+                "MES ACTUAL": 14,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 8,
@@ -382,6 +480,13 @@
         "nombre": "ARIAS DANIEL",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 1,
+                "MES ACTUAL": 1,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 0,
                 "MES ACTUAL": 1,
@@ -408,6 +513,13 @@
         "cod": "183",
         "nombre": "FLORES ZARATE JUAN",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 18,
+                "MES ACTUAL": 26,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 11,
@@ -436,6 +548,13 @@
         "nombre": "CRUZ BENIGNO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 9,
+                "MES ACTUAL": 12,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 6,
                 "MES ACTUAL": 9,
@@ -462,6 +581,13 @@
         "cod": "185",
         "nombre": "FLORES CALLE UBALDINA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 43,
+                "MES ACTUAL": 56,
+                "METROS CUBICOS": 13,
+                "MONTO EN BS": 55
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 33,
@@ -490,6 +616,13 @@
         "nombre": "CALLE CALLE PEDRO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 66,
+                "MES ACTUAL": 69,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 62,
                 "MES ACTUAL": 66,
@@ -516,6 +649,13 @@
         "cod": "2550",
         "nombre": "ESPINOZA MEJIA ELENA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 381,
+                "MES ACTUAL": 384,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 376,
@@ -544,6 +684,13 @@
         "nombre": "MAMANI PEREZ FELIA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 369,
+                "MES ACTUAL": 374,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 364,
                 "MES ACTUAL": 369,
@@ -570,6 +717,13 @@
         "cod": "2552",
         "nombre": "SEBASTIAN MAMANI PAULINA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 545,
+                "MES ACTUAL": 554,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 541,
@@ -598,6 +752,13 @@
         "nombre": "SULCATA LETICIA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 194,
+                "MES ACTUAL": 197,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 191,
                 "MES ACTUAL": 194,
@@ -624,6 +785,13 @@
         "cod": "2554",
         "nombre": "BARRIENTOS SENOBIA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 505,
+                "MES ACTUAL": 505,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 504,
@@ -652,6 +820,13 @@
         "nombre": "CHUMBI MITA GENARO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 397,
+                "MES ACTUAL": 397,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 396,
                 "MES ACTUAL": 397,
@@ -678,6 +853,13 @@
         "cod": "2556",
         "nombre": "VILLCA ALAVI RENE",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 552,
+                "MES ACTUAL": 557,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 547,
@@ -706,6 +888,13 @@
         "nombre": "RIOS QUISPE TERESA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 977,
+                "MES ACTUAL": 990,
+                "METROS CUBICOS": 13,
+                "MONTO EN BS": 55
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 964,
                 "MES ACTUAL": 977,
@@ -732,6 +921,13 @@
         "cod": "2559",
         "nombre": "MONTECINOS MATILDE",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 130,
+                "MES ACTUAL": 130,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 130,
@@ -760,6 +956,13 @@
         "nombre": "APAZA ESPINOZA ALFONSO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 548,
+                "MES ACTUAL": 555,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 542,
                 "MES ACTUAL": 548,
@@ -786,6 +989,13 @@
         "cod": "2561",
         "nombre": "HUANCA PABLO JUAN AVIGAIL",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 173,
+                "MES ACTUAL": 176,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 171,
@@ -814,6 +1024,13 @@
         "nombre": "MAMANI RAMOS IGNACIA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 423,
+                "MES ACTUAL": 429,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 417,
                 "MES ACTUAL": 423,
@@ -840,6 +1057,13 @@
         "cod": "2563",
         "nombre": "FERNANDEZ LAURA LUIS ERIK",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 807,
+                "MES ACTUAL": 817,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 799,
@@ -868,6 +1092,13 @@
         "nombre": "HUANCO VALLEJOS VICTORIA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 744,
+                "MES ACTUAL": 750,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 738,
                 "MES ACTUAL": 744,
@@ -894,6 +1125,13 @@
         "cod": "2565",
         "nombre": "CHOQUE HUANCA INDALICIO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 563,
+                "MES ACTUAL": 571,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 556,
@@ -922,6 +1160,13 @@
         "nombre": "FLORES ZARATE ROBERTO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 569,
+                "MES ACTUAL": 574,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 564,
                 "MES ACTUAL": 569,
@@ -948,6 +1193,13 @@
         "cod": "2567",
         "nombre": "CACERES OROZCO MIKAELA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 386,
+                "MES ACTUAL": 390,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 381,
@@ -976,6 +1228,13 @@
         "nombre": "MAMANI EULOGIA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 528,
+                "MES ACTUAL": 535,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 522,
                 "MES ACTUAL": 528,
@@ -1002,6 +1261,13 @@
         "cod": "2569",
         "nombre": "PACCI CRUZ GUALBERTO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 630,
+                "MES ACTUAL": 635,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 624,
@@ -1030,6 +1296,13 @@
         "nombre": "TORRICO MAMANI TEOFILA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 646,
+                "MES ACTUAL": 656,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 637,
                 "MES ACTUAL": 646,
@@ -1056,6 +1329,13 @@
         "cod": "2571",
         "nombre": "CALANI HUANCA JULIAN",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 401,
+                "MES ACTUAL": 405,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 396,
@@ -1084,6 +1364,13 @@
         "nombre": "GUZMAN VARGAS MARGARITA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 307,
+                "MES ACTUAL": 314,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 303,
                 "MES ACTUAL": 307,
@@ -1110,6 +1397,13 @@
         "cod": "2573",
         "nombre": "SAAVEDRA TECEROS EDWIN",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 659,
+                "MES ACTUAL": 666,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 653,
@@ -1138,6 +1432,13 @@
         "nombre": "LAURA FLORES RENE",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 577,
+                "MES ACTUAL": 577,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 577,
                 "MES ACTUAL": 577,
@@ -1164,6 +1465,13 @@
         "cod": "2575",
         "nombre": "MEDRANO RODRÍGUEZ  VIRGILIO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 501,
+                "MES ACTUAL": 505,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 496,
@@ -1192,6 +1500,13 @@
         "nombre": "PAREJA KALLA SINFOROSA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 447,
+                "MES ACTUAL": 451,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 443,
                 "MES ACTUAL": 447,
@@ -1218,6 +1533,13 @@
         "cod": "2578",
         "nombre": "GUZMAN VILLEGAS PAULINO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 393,
+                "MES ACTUAL": 397,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 386,
@@ -1246,6 +1568,13 @@
         "nombre": "CHOQUE ALVINA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 1059,
+                "MES ACTUAL": 1074,
+                "METROS CUBICOS": 15,
+                "MONTO EN BS": 65
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 1043,
                 "MES ACTUAL": 1059,
@@ -1272,6 +1601,13 @@
         "cod": "2580",
         "nombre": "HUANCA HERRERA MARIO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 220,
+                "MES ACTUAL": 223,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 216,
@@ -1300,6 +1636,13 @@
         "nombre": "MALDONADO CUSTODIO ZULMA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 394,
+                "MES ACTUAL": 399,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 390,
                 "MES ACTUAL": 394,
@@ -1326,6 +1669,13 @@
         "cod": "2593",
         "nombre": "MIRANDA COLQUE  ISAIAS",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 386,
+                "MES ACTUAL": 392,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 377,
@@ -1354,6 +1704,13 @@
         "nombre": "RIOS TORREZ ELVIRA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 287,
+                "MES ACTUAL": 287,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 287,
                 "MES ACTUAL": 287,
@@ -1380,6 +1737,13 @@
         "cod": "2595",
         "nombre": "CAISIRI GERONIMO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 64,
+                "MES ACTUAL": 64,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 64,
@@ -1408,6 +1772,13 @@
         "nombre": "CHAMBI CRUZ JUSTINIANO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 874,
+                "MES ACTUAL": 883,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 867,
                 "MES ACTUAL": 874,
@@ -1434,6 +1805,13 @@
         "cod": "2597",
         "nombre": "CAISIRI EDMUNDO 2",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 41,
+                "MES ACTUAL": 44,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 37,
@@ -1462,6 +1840,13 @@
         "nombre": "AYMA FERNANDEZ OLGA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 986,
+                "MES ACTUAL": 997,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 975,
                 "MES ACTUAL": 986,
@@ -1488,6 +1873,13 @@
         "cod": "2599",
         "nombre": "CAISIRI EDMUNDO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 637,
+                "MES ACTUAL": 646,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 630,
@@ -1516,6 +1908,13 @@
         "nombre": "CHOQUE HUANCA EDGAR",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 279,
+                "MES ACTUAL": 283,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 276,
                 "MES ACTUAL": 279,
@@ -1542,6 +1941,13 @@
         "cod": "2601",
         "nombre": "CAISIRI PAULINO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 632,
+                "MES ACTUAL": 638,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 627,
@@ -1570,6 +1976,13 @@
         "nombre": "LAURA CANQUI NIEVES",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 651,
+                "MES ACTUAL": 659,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 644,
                 "MES ACTUAL": 651,
@@ -1596,6 +2009,13 @@
         "cod": "2603",
         "nombre": "MEJIA CALLE EDDY",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 680,
+                "MES ACTUAL": 689,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 671,
@@ -1624,6 +2044,13 @@
         "nombre": "LAURA CANQUI MARIA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 729,
+                "MES ACTUAL": 737,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 721,
                 "MES ACTUAL": 729,
@@ -1650,6 +2077,13 @@
         "cod": "2605",
         "nombre": "SERRANO MAMANI ROLANDO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 678,
+                "MES ACTUAL": 691,
+                "METROS CUBICOS": 13,
+                "MONTO EN BS": 55
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 665,
@@ -1678,6 +2112,13 @@
         "nombre": "CANQUI CLETA RITA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 657,
+                "MES ACTUAL": 664,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 650,
                 "MES ACTUAL": 657,
@@ -1704,6 +2145,13 @@
         "cod": "2607",
         "nombre": "VASQUEZ ESPINOZA ALICIA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 453,
+                "MES ACTUAL": 459,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 448,
@@ -1732,6 +2180,13 @@
         "nombre": "NINA JULIAN ESPERANZA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 833,
+                "MES ACTUAL": 849,
+                "METROS CUBICOS": 16,
+                "MONTO EN BS": 70
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 821,
                 "MES ACTUAL": 833,
@@ -1758,6 +2213,13 @@
         "cod": "2609",
         "nombre": "HEBAS LOPEZ ROSA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 334,
+                "MES ACTUAL": 338,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 330,
@@ -1786,6 +2248,13 @@
         "nombre": "MEJIA MAMANI OCTAVIO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 609,
+                "MES ACTUAL": 618,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 602,
                 "MES ACTUAL": 609,
@@ -1812,6 +2281,13 @@
         "cod": "2693",
         "nombre": "ILLANES MAMANI RIERY JAVIER",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 328,
+                "MES ACTUAL": 332,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 323,
@@ -1840,6 +2316,13 @@
         "nombre": "PAREDES CORDOVA RUDY",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 352,
+                "MES ACTUAL": 356,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 349,
                 "MES ACTUAL": 352,
@@ -1866,6 +2349,13 @@
         "cod": "2695",
         "nombre": "JANKO JULIA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 585,
+                "MES ACTUAL": 597,
+                "METROS CUBICOS": 12,
+                "MONTO EN BS": 50
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 572,
@@ -1894,6 +2384,13 @@
         "nombre": "MERCADO CUEVAS LUZ AMPARO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 733,
+                "MES ACTUAL": 742,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 726,
                 "MES ACTUAL": 733,
@@ -1920,6 +2417,13 @@
         "cod": "2697",
         "nombre": "MERCADO CUEVAS MARIA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 905,
+                "MES ACTUAL": 918,
+                "METROS CUBICOS": 13,
+                "MONTO EN BS": 55
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 892,
@@ -1948,6 +2452,13 @@
         "nombre": "TARDIO PACO CLOTILDE",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 516,
+                "MES ACTUAL": 523,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 511,
                 "MES ACTUAL": 516,
@@ -1974,6 +2485,13 @@
         "cod": "2699",
         "nombre": "MARCA SARSURI ADA ALBERTA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 1,
+                "MES ACTUAL": 1,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 1,
@@ -2002,6 +2520,13 @@
         "nombre": "PINTO ALAVE LIMBER",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 1115,
+                "MES ACTUAL": 1133,
+                "METROS CUBICOS": 18,
+                "MONTO EN BS": 80
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 1096,
                 "MES ACTUAL": 1115,
@@ -2028,6 +2553,13 @@
         "cod": "2701",
         "nombre": "RIOS  CUEVAS ROSENDO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 304,
+                "MES ACTUAL": 305,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 300,
@@ -2056,6 +2588,13 @@
         "nombre": "PEÑAFIEL HERNAN",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 1102,
+                "MES ACTUAL": 1129,
+                "METROS CUBICOS": 27,
+                "MONTO EN BS": 125
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 1070,
                 "MES ACTUAL": 1102,
@@ -2082,6 +2621,13 @@
         "cod": "3387",
         "nombre": "CHOQUE HUANCA BARTOLINA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 458,
+                "MES ACTUAL": 461,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 455,
@@ -2110,6 +2656,13 @@
         "nombre": "TARQUI REYMUNDO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 226,
+                "MES ACTUAL": 227,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 226,
                 "MES ACTUAL": 226,
@@ -2136,6 +2689,13 @@
         "cod": "3532",
         "nombre": "CARDOZO Z. LUIS FERNANDO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 0,
+                "MES ACTUAL": 0,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 0,
@@ -2164,6 +2724,13 @@
         "nombre": "COAQUIRA ARMAS VICTORIA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 713,
+                "MES ACTUAL": 720,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 704,
                 "MES ACTUAL": 713,
@@ -2190,6 +2757,13 @@
         "cod": "3534",
         "nombre": "MAYTA LOPEZ ANIBAL1",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 417,
+                "MES ACTUAL": 422,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 417,
@@ -2218,6 +2792,13 @@
         "nombre": "NATALIO ALEJO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 773,
+                "MES ACTUAL": 778,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 768,
                 "MES ACTUAL": 773,
@@ -2244,6 +2825,13 @@
         "cod": "3536",
         "nombre": "CHOQUE HUANCA FLORINDA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 101,
+                "MES ACTUAL": 101,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 100,
@@ -2272,6 +2860,13 @@
         "nombre": "MAMANI CACHI AURORA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 50,
+                "MES ACTUAL": 50,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 50,
                 "MES ACTUAL": 50,
@@ -2298,6 +2893,13 @@
         "cod": "3538",
         "nombre": "POMA COLQUE JULIA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 151,
+                "MES ACTUAL": 154,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 149,
@@ -2326,6 +2928,13 @@
         "nombre": "MAYTA LOPEZ ANIBAL2",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 436,
+                "MES ACTUAL": 439,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 434,
                 "MES ACTUAL": 436,
@@ -2352,6 +2961,13 @@
         "cod": "3540",
         "nombre": "FLORES ZARATE JULIAN",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 571,
+                "MES ACTUAL": 576,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 566,
@@ -2380,6 +2996,13 @@
         "nombre": "ESPINOZA MEJIA JUANA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 395,
+                "MES ACTUAL": 395,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 395,
                 "MES ACTUAL": 395,
@@ -2406,6 +3029,13 @@
         "cod": "3882",
         "nombre": "ASENCIO RIOS NILSON",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 725,
+                "MES ACTUAL": 733,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 717,
@@ -2434,6 +3064,13 @@
         "nombre": "TORREZ CABAGNI EUFRACIO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 403,
+                "MES ACTUAL": 406,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 399,
                 "MES ACTUAL": 403,
@@ -2460,6 +3097,13 @@
         "cod": "3884",
         "nombre": "GUZMAN JORGE",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 601,
+                "MES ACTUAL": 611,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 589,
@@ -2488,6 +3132,13 @@
         "nombre": "MONTECINOS GUTIÉRREZ MARTHA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 693,
+                "MES ACTUAL": 702,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 682,
                 "MES ACTUAL": 693,
@@ -2514,6 +3165,13 @@
         "cod": "3886",
         "nombre": "MATIAS MARCA JIMENA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 398,
+                "MES ACTUAL": 400,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 394,
@@ -2542,6 +3200,13 @@
         "nombre": "PLATA MAMANI LOURDES",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 296,
+                "MES ACTUAL": 298,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 293,
                 "MES ACTUAL": 296,
@@ -2568,6 +3233,13 @@
         "cod": "3888",
         "nombre": "LIMA SEGUNDINA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 576,
+                "MES ACTUAL": 579,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 571,
@@ -2596,6 +3268,13 @@
         "nombre": "PASCUAL CHURA ANA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 498,
+                "MES ACTUAL": 507,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 491,
                 "MES ACTUAL": 498,
@@ -2622,6 +3301,13 @@
         "cod": "3890",
         "nombre": "LÓPEZ LEDEZMA INCARNO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 736,
+                "MES ACTUAL": 751,
+                "METROS CUBICOS": 15,
+                "MONTO EN BS": 65
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 722,
@@ -2650,6 +3336,13 @@
         "nombre": "MURUCHI COPALI SERGIO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 603,
+                "MES ACTUAL": 607,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 600,
                 "MES ACTUAL": 603,
@@ -2676,6 +3369,13 @@
         "cod": "3892",
         "nombre": "ZENTENO OCTAVIO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 664,
+                "MES ACTUAL": 668,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 661,
@@ -2704,6 +3404,13 @@
         "nombre": "TORRICO MAMANI MARGARITA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 444,
+                "MES ACTUAL": 448,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 438,
                 "MES ACTUAL": 444,
@@ -2730,6 +3437,13 @@
         "cod": "3894",
         "nombre": "VALERO GUARAYO VICENTE",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 538,
+                "MES ACTUAL": 545,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 532,
@@ -2758,6 +3472,13 @@
         "nombre": "QUIROZ TITO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 1102,
+                "MES ACTUAL": 1110,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 1095,
                 "MES ACTUAL": 1102,
@@ -2784,6 +3505,13 @@
         "cod": "3896",
         "nombre": "AYALA DANTE",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 2091,
+                "MES ACTUAL": 2114,
+                "METROS CUBICOS": 23,
+                "MONTO EN BS": 105
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 2060,
@@ -2812,6 +3540,13 @@
         "nombre": "FLORES VIVEROS DAMIANA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 813,
+                "MES ACTUAL": 823,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 805,
                 "MES ACTUAL": 813,
@@ -2838,6 +3573,13 @@
         "cod": "3898",
         "nombre": "FLORES CHOQUE CRISTINA 1",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 682,
+                "MES ACTUAL": 686,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 678,
@@ -2866,6 +3608,13 @@
         "nombre": "MIRANDA MONTECINOS NICOLAS",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 997,
+                "MES ACTUAL": 1009,
+                "METROS CUBICOS": 12,
+                "MONTO EN BS": 50
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 985,
                 "MES ACTUAL": 997,
@@ -2892,6 +3641,13 @@
         "cod": "3900",
         "nombre": "CONDORI MARCA ABDON",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 237,
+                "MES ACTUAL": 239,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 234,
@@ -2920,6 +3676,13 @@
         "nombre": "FRANCISCANO M. JACINTO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 1077,
+                "MES ACTUAL": 1092,
+                "METROS CUBICOS": 15,
+                "MONTO EN BS": 65
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 1062,
                 "MES ACTUAL": 1077,
@@ -2946,6 +3709,13 @@
         "cod": "3902",
         "nombre": "NINA JULIAN WILFREDO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 700,
+                "MES ACTUAL": 707,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 693,
@@ -2974,6 +3744,13 @@
         "nombre": "GIL CRUZ CLAUDIA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 904,
+                "MES ACTUAL": 922,
+                "METROS CUBICOS": 18,
+                "MONTO EN BS": 80
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 882,
                 "MES ACTUAL": 904,
@@ -3000,6 +3777,13 @@
         "cod": "3904",
         "nombre": "ACUÑA VILCA FACUNDO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 178,
+                "MES ACTUAL": 179,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 177,
@@ -3028,6 +3812,13 @@
         "nombre": "CONDORI ALICIA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 693,
+                "MES ACTUAL": 700,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 687,
                 "MES ACTUAL": 693,
@@ -3054,6 +3845,13 @@
         "cod": "3906",
         "nombre": "LAURA FLORES MAGNO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 688,
+                "MES ACTUAL": 699,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 675,
@@ -3082,6 +3880,13 @@
         "nombre": "QUISPE JAMILLO DIONICIO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 754,
+                "MES ACTUAL": 760,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 748,
                 "MES ACTUAL": 754,
@@ -3108,6 +3913,13 @@
         "cod": "3908",
         "nombre": "GIL CRUZ VIRGINIA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 61,
+                "MES ACTUAL": 61,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 61,
@@ -3136,6 +3948,13 @@
         "nombre": "TORRICO MAMANI SOFIA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 588,
+                "MES ACTUAL": 594,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 582,
                 "MES ACTUAL": 588,
@@ -3162,6 +3981,13 @@
         "cod": "3910",
         "nombre": "SILES VARGAS LILIAN F.",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 664,
+                "MES ACTUAL": 669,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 659,
@@ -3190,6 +4016,13 @@
         "nombre": "CHOQUE FLORES TEOFILO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 566,
+                "MES ACTUAL": 572,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 559,
                 "MES ACTUAL": 566,
@@ -3216,6 +4049,13 @@
         "cod": "3912",
         "nombre": "ESPINOZA CHAMBI DEUNICIO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 661,
+                "MES ACTUAL": 672,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 651,
@@ -3244,6 +4084,13 @@
         "nombre": "RAMIRES CONDORI ALBERTO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 571,
+                "MES ACTUAL": 576,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 566,
                 "MES ACTUAL": 571,
@@ -3270,6 +4117,13 @@
         "cod": "3914",
         "nombre": "MATIAS CONDORI PRIMO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 376,
+                "MES ACTUAL": 378,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 374,
@@ -3298,6 +4152,13 @@
         "nombre": "ACUÑA GABRIEL GERMAN",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 209,
+                "MES ACTUAL": 212,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 206,
                 "MES ACTUAL": 209,
@@ -3324,6 +4185,13 @@
         "cod": "3916",
         "nombre": "CUAQUIRA DE CHOQUE EMETERIA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 43,
+                "MES ACTUAL": 43,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 40,
@@ -3352,6 +4220,13 @@
         "nombre": "RAMOS LOPEZ OSCAR",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 916,
+                "MES ACTUAL": 929,
+                "METROS CUBICOS": 13,
+                "MONTO EN BS": 55
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 907,
                 "MES ACTUAL": 916,
@@ -3378,6 +4253,13 @@
         "cod": "3918",
         "nombre": "RAMOS LOPEZ MIRIAM",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 314,
+                "MES ACTUAL": 324,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 301,
@@ -3406,6 +4288,13 @@
         "nombre": "LOPEZ CHUMBI CASILDA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 697,
+                "MES ACTUAL": 700,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 694,
                 "MES ACTUAL": 697,
@@ -3432,6 +4321,13 @@
         "cod": "3920",
         "nombre": "QUISPE CRUZ ESPERANZA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 1564,
+                "MES ACTUAL": 1576,
+                "METROS CUBICOS": 12,
+                "MONTO EN BS": 50
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 1549,
@@ -3460,6 +4356,13 @@
         "nombre": "RIOS GRACIELA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 1188,
+                "MES ACTUAL": 1199,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 1173,
                 "MES ACTUAL": 1188,
@@ -3486,6 +4389,13 @@
         "cod": "4022",
         "nombre": "AYMA FERNANDEZ PABLO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 75,
+                "MES ACTUAL": 86,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 69,
@@ -3514,6 +4424,13 @@
         "nombre": "IGLESIA ADVENTISTA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 208,
+                "MES ACTUAL": 211,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 208,
                 "MES ACTUAL": 208,
@@ -3540,6 +4457,13 @@
         "cod": "4113",
         "nombre": "MEDRANO SANIZO ELOINA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 756,
+                "MES ACTUAL": 767,
+                "METROS CUBICOS": 11,
+                "MONTO EN BS": 45
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 751,
@@ -3568,6 +4492,13 @@
         "nombre": "VASQUEZ GUILLERMO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 670,
+                "MES ACTUAL": 672,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 669,
                 "MES ACTUAL": 670,
@@ -3594,6 +4525,13 @@
         "cod": "4115",
         "nombre": "ZENTENO ORELLANA TEODORA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 985,
+                "MES ACTUAL": 1002,
+                "METROS CUBICOS": 17,
+                "MONTO EN BS": 75
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 960,
@@ -3622,6 +4560,13 @@
         "nombre": "MARCA ALEJANDRO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 693,
+                "MES ACTUAL": 693,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 689,
                 "MES ACTUAL": 693,
@@ -3648,6 +4593,13 @@
         "cod": "4117",
         "nombre": "MONRROY MORALES DAVID",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 489,
+                "MES ACTUAL": 492,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 484,
@@ -3676,6 +4628,13 @@
         "nombre": "HINOJOSA ROMERO IVETH DEYSI",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 1543,
+                "MES ACTUAL": 1543,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 1543,
                 "MES ACTUAL": 1543,
@@ -3702,6 +4661,13 @@
         "cod": "4119",
         "nombre": "CARATA AMALIA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 75,
+                "MES ACTUAL": 75,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 75,
@@ -3730,6 +4696,13 @@
         "nombre": "QUIRUCHI HUARAYO NATALIA ",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 260,
+                "MES ACTUAL": 263,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 256,
                 "MES ACTUAL": 260,
@@ -3756,6 +4729,13 @@
         "cod": "4121",
         "nombre": "QUIRUCHI JULIA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 386,
+                "MES ACTUAL": 392,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 377,
@@ -3784,6 +4764,13 @@
         "nombre": "SANCHEZ PAULINA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 479,
+                "MES ACTUAL": 481,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 475,
                 "MES ACTUAL": 479,
@@ -3810,6 +4797,13 @@
         "cod": "4183",
         "nombre": "APAZA MAMANI OLMA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 413,
+                "MES ACTUAL": 418,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 407,
@@ -3838,6 +4832,13 @@
         "nombre": "HUANCA CALANI BOSCO RIGOBERTO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 672,
+                "MES ACTUAL": 682,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 661,
                 "MES ACTUAL": 672,
@@ -3864,6 +4865,13 @@
         "cod": "4185",
         "nombre": "PAREDES CORDOVA LENY",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 169,
+                "MES ACTUAL": 171,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 166,
@@ -3892,6 +4900,13 @@
         "nombre": "MAMANI TEJERINA J. MANUEL",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 0,
+                "MES ACTUAL": 0,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 0,
                 "MES ACTUAL": 0,
@@ -3918,6 +4933,13 @@
         "cod": "4187",
         "nombre": "VALLEJOS DAVALOS LUCY MIRIAN",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 499,
+                "MES ACTUAL": 507,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 489,
@@ -3946,6 +4968,13 @@
         "nombre": "CHAMBILLA SANCHEZ ELSA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 792,
+                "MES ACTUAL": 800,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 786,
                 "MES ACTUAL": 792,
@@ -3972,6 +5001,13 @@
         "cod": "4189",
         "nombre": "QUISPE SANTOS CARMELA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 517,
+                "MES ACTUAL": 523,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 510,
@@ -4000,6 +5036,13 @@
         "nombre": "TOLA FLORES LORENZO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 192,
+                "MES ACTUAL": 195,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 187,
                 "MES ACTUAL": 192,
@@ -4026,6 +5069,13 @@
         "cod": "4191",
         "nombre": "TEJERINA LOPEZ ANA MARIA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 0,
+                "MES ACTUAL": 0,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 0,
@@ -4054,6 +5104,13 @@
         "nombre": "CALANI FLORES DAVID",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 529,
+                "MES ACTUAL": 547,
+                "METROS CUBICOS": 18,
+                "MONTO EN BS": 80
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 514,
                 "MES ACTUAL": 529,
@@ -4080,6 +5137,13 @@
         "cod": "4813",
         "nombre": "AGUAYO JACHACATA INOCENCIO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 89,
+                "MES ACTUAL": 90,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 87,
@@ -4108,6 +5172,13 @@
         "nombre": "CONDORI ARCENIO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 712,
+                "MES ACTUAL": 721,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 703,
                 "MES ACTUAL": 712,
@@ -4134,6 +5205,13 @@
         "cod": "6088",
         "nombre": "ESPINOSA MEJIA ROSMERY",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 71,
+                "MES ACTUAL": 73,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 69,
@@ -4162,6 +5240,13 @@
         "nombre": "FELICIANO GARCIA PONCIANO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 89,
+                "MES ACTUAL": 89,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 89,
                 "MES ACTUAL": 89,
@@ -4188,6 +5273,13 @@
         "cod": "6261",
         "nombre": "MENDOZA ARANCIBIA ROBERTO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 346,
+                "MES ACTUAL": 355,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 340,
@@ -4216,6 +5308,13 @@
         "nombre": "GUTIERRES SILVESTRE ABRAHAM",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 368,
+                "MES ACTUAL": 369,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 367,
                 "MES ACTUAL": 368,
@@ -4242,6 +5341,13 @@
         "cod": "6263",
         "nombre": "DELGADO QUINTA WILDER",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 1498,
+                "MES ACTUAL": 1514,
+                "METROS CUBICOS": 16,
+                "MONTO EN BS": 70
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 1464,
@@ -4270,6 +5376,13 @@
         "nombre": "ACEBEY ANDIA EDSON AMILKAR",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 592,
+                "MES ACTUAL": 597,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 586,
                 "MES ACTUAL": 592,
@@ -4296,6 +5409,13 @@
         "cod": "6265",
         "nombre": "QUISPE CHINO JUAN JAIME",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 482,
+                "MES ACTUAL": 488,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 477,
@@ -4324,6 +5444,13 @@
         "nombre": "AYMA FERNANDEZ MARISOL",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 345,
+                "MES ACTUAL": 352,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 339,
                 "MES ACTUAL": 345,
@@ -4350,6 +5477,13 @@
         "cod": "6848",
         "nombre": "FLORES ENCALADA MARIA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 794,
+                "MES ACTUAL": 804,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 785,
@@ -4378,6 +5512,13 @@
         "nombre": "CAMACHO HUANCO ZANDI",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 396,
+                "MES ACTUAL": 409,
+                "METROS CUBICOS": 13,
+                "MONTO EN BS": 55
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 382,
                 "MES ACTUAL": 396,
@@ -4404,6 +5545,13 @@
         "cod": "7487",
         "nombre": "RIOS VICTOR HUGO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 292,
+                "MES ACTUAL": 300,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 285,
@@ -4432,6 +5580,13 @@
         "nombre": "GIL CRUZ BENIGNA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 145,
+                "MES ACTUAL": 145,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 145,
                 "MES ACTUAL": 145,
@@ -4458,6 +5613,13 @@
         "cod": "8844",
         "nombre": "ACEBEY SUBELZA MAXIMO",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 186,
+                "MES ACTUAL": 200,
+                "METROS CUBICOS": 14,
+                "MONTO EN BS": 60
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 176,
@@ -4486,6 +5648,13 @@
         "nombre": "ESPINOSA MEJIA ROGELIO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 70,
+                "MES ACTUAL": 74,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 66,
                 "MES ACTUAL": 70,
@@ -4512,6 +5681,13 @@
         "cod": "9651",
         "nombre": "PEÑARANDA MARAZ SILVIA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 212,
+                "MES ACTUAL": 220,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 204,
@@ -4540,6 +5716,13 @@
         "nombre": "FELICIANO JOSE ERNESTO",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 226,
+                "MES ACTUAL": 235,
+                "METROS CUBICOS": 9,
+                "MONTO EN BS": 35
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 217,
                 "MES ACTUAL": 226,
@@ -4566,6 +5749,13 @@
         "cod": "9929",
         "nombre": "RIOS QUISPE EDWIN",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 147,
+                "MES ACTUAL": 151,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 144,
@@ -4594,6 +5784,13 @@
         "nombre": "HINOJOSA FLORES JOSE",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 407,
+                "MES ACTUAL": 417,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 398,
                 "MES ACTUAL": 407,
@@ -4620,6 +5817,13 @@
         "cod": "9931",
         "nombre": "SALSURI CESARIA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 215,
+                "MES ACTUAL": 215,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 214,
@@ -4648,6 +5852,13 @@
         "nombre": "GARCIA ROMERO VILMA",
         "meses": [
             {
+                "MES": "abril",
+                "MES PASADO": 442,
+                "MES ACTUAL": 446,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
                 "MES": "marzo",
                 "MES PASADO": 440,
                 "MES ACTUAL": 442,
@@ -4674,6 +5885,13 @@
         "cod": "9935",
         "nombre": "ROJAS ARCE JUANA",
         "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 170,
+                "MES ACTUAL": 171,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
             {
                 "MES": "marzo",
                 "MES PASADO": 169,
