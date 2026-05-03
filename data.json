@@ -1,5 +1,175 @@
 [
     {
+        "cod": "0181",
+        "nombre": "MONTECINOS CACERES HEYDI",
+        "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 12,
+                "MES ACTUAL": 14,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "marzo",
+                "MES PASADO": 8,
+                "MES ACTUAL": 12,
+                "METROS CUBICOS": 4,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 6,
+                "MES ACTUAL": 8,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 4,
+                "MES ACTUAL": 6,
+                "METROS CUBICOS": 2,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "0182",
+        "nombre": "ARIAS DANIEL",
+        "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 1,
+                "MES ACTUAL": 1,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "marzo",
+                "MES PASADO": 0,
+                "MES ACTUAL": 1,
+                "METROS CUBICOS": 1,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 0,
+                "MES ACTUAL": 0,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 0,
+                "MES ACTUAL": 0,
+                "METROS CUBICOS": 0,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "0183",
+        "nombre": "FLORES ZARATE JUAN",
+        "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 18,
+                "MES ACTUAL": 26,
+                "METROS CUBICOS": 8,
+                "MONTO EN BS": 30
+            },
+            {
+                "MES": "marzo",
+                "MES PASADO": 11,
+                "MES ACTUAL": 18,
+                "METROS CUBICOS": 7,
+                "MONTO EN BS": 25
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 5,
+                "MES ACTUAL": 11,
+                "METROS CUBICOS": 6,
+                "MONTO EN BS": 20
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 0,
+                "MES ACTUAL": 5,
+                "METROS CUBICOS": 5,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "0184",
+        "nombre": "CRUZ BENIGNO",
+        "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 9,
+                "MES ACTUAL": 12,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "marzo",
+                "MES PASADO": 6,
+                "MES ACTUAL": 9,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 3,
+                "MES ACTUAL": 6,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 0,
+                "MES ACTUAL": 3,
+                "METROS CUBICOS": 3,
+                "MONTO EN BS": 15
+            }
+        ]
+    },
+    {
+        "cod": "0185",
+        "nombre": "FLORES CALLE UBALDINA",
+        "meses": [
+            {
+                "MES": "abril",
+                "MES PASADO": 43,
+                "MES ACTUAL": 56,
+                "METROS CUBICOS": 13,
+                "MONTO EN BS": 55
+            },
+            {
+                "MES": "marzo",
+                "MES PASADO": 33,
+                "MES ACTUAL": 43,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
+            {
+                "MES": "febrero",
+                "MES PASADO": 23,
+                "MES ACTUAL": 33,
+                "METROS CUBICOS": 10,
+                "MONTO EN BS": 40
+            },
+            {
+                "MES": "enero",
+                "MES PASADO": 5,
+                "MES ACTUAL": 23,
+                "METROS CUBICOS": 18,
+                "MONTO EN BS": 80
+            }
+        ]
+    },
+    {
         "cod": "1001",
         "nombre": "FLORES CHOQUE CRISTINA 2",
         "meses": [
@@ -438,176 +608,6 @@
                 "MES ACTUAL": 419,
                 "METROS CUBICOS": 0,
                 "MONTO EN BS": 15
-            }
-        ]
-    },
-    {
-        "cod": "181",
-        "nombre": "MONTECINOS CACERES HEYDI",
-        "meses": [
-            {
-                "MES": "abril",
-                "MES PASADO": 12,
-                "MES ACTUAL": 14,
-                "METROS CUBICOS": 2,
-                "MONTO EN BS": 15
-            },
-            {
-                "MES": "marzo",
-                "MES PASADO": 8,
-                "MES ACTUAL": 12,
-                "METROS CUBICOS": 4,
-                "MONTO EN BS": 15
-            },
-            {
-                "MES": "febrero",
-                "MES PASADO": 6,
-                "MES ACTUAL": 8,
-                "METROS CUBICOS": 2,
-                "MONTO EN BS": 15
-            },
-            {
-                "MES": "enero",
-                "MES PASADO": 4,
-                "MES ACTUAL": 6,
-                "METROS CUBICOS": 2,
-                "MONTO EN BS": 15
-            }
-        ]
-    },
-    {
-        "cod": "182",
-        "nombre": "ARIAS DANIEL",
-        "meses": [
-            {
-                "MES": "abril",
-                "MES PASADO": 1,
-                "MES ACTUAL": 1,
-                "METROS CUBICOS": 0,
-                "MONTO EN BS": 15
-            },
-            {
-                "MES": "marzo",
-                "MES PASADO": 0,
-                "MES ACTUAL": 1,
-                "METROS CUBICOS": 1,
-                "MONTO EN BS": 15
-            },
-            {
-                "MES": "febrero",
-                "MES PASADO": 0,
-                "MES ACTUAL": 0,
-                "METROS CUBICOS": 0,
-                "MONTO EN BS": 15
-            },
-            {
-                "MES": "enero",
-                "MES PASADO": 0,
-                "MES ACTUAL": 0,
-                "METROS CUBICOS": 0,
-                "MONTO EN BS": 15
-            }
-        ]
-    },
-    {
-        "cod": "183",
-        "nombre": "FLORES ZARATE JUAN",
-        "meses": [
-            {
-                "MES": "abril",
-                "MES PASADO": 18,
-                "MES ACTUAL": 26,
-                "METROS CUBICOS": 8,
-                "MONTO EN BS": 30
-            },
-            {
-                "MES": "marzo",
-                "MES PASADO": 11,
-                "MES ACTUAL": 18,
-                "METROS CUBICOS": 7,
-                "MONTO EN BS": 25
-            },
-            {
-                "MES": "febrero",
-                "MES PASADO": 5,
-                "MES ACTUAL": 11,
-                "METROS CUBICOS": 6,
-                "MONTO EN BS": 20
-            },
-            {
-                "MES": "enero",
-                "MES PASADO": 0,
-                "MES ACTUAL": 5,
-                "METROS CUBICOS": 5,
-                "MONTO EN BS": 15
-            }
-        ]
-    },
-    {
-        "cod": "184",
-        "nombre": "CRUZ BENIGNO",
-        "meses": [
-            {
-                "MES": "abril",
-                "MES PASADO": 9,
-                "MES ACTUAL": 12,
-                "METROS CUBICOS": 3,
-                "MONTO EN BS": 15
-            },
-            {
-                "MES": "marzo",
-                "MES PASADO": 6,
-                "MES ACTUAL": 9,
-                "METROS CUBICOS": 3,
-                "MONTO EN BS": 15
-            },
-            {
-                "MES": "febrero",
-                "MES PASADO": 3,
-                "MES ACTUAL": 6,
-                "METROS CUBICOS": 3,
-                "MONTO EN BS": 15
-            },
-            {
-                "MES": "enero",
-                "MES PASADO": 0,
-                "MES ACTUAL": 3,
-                "METROS CUBICOS": 3,
-                "MONTO EN BS": 15
-            }
-        ]
-    },
-    {
-        "cod": "185",
-        "nombre": "FLORES CALLE UBALDINA",
-        "meses": [
-            {
-                "MES": "abril",
-                "MES PASADO": 43,
-                "MES ACTUAL": 56,
-                "METROS CUBICOS": 13,
-                "MONTO EN BS": 55
-            },
-            {
-                "MES": "marzo",
-                "MES PASADO": 33,
-                "MES ACTUAL": 43,
-                "METROS CUBICOS": 10,
-                "MONTO EN BS": 40
-            },
-            {
-                "MES": "febrero",
-                "MES PASADO": 23,
-                "MES ACTUAL": 33,
-                "METROS CUBICOS": 10,
-                "MONTO EN BS": 40
-            },
-            {
-                "MES": "enero",
-                "MES PASADO": 5,
-                "MES ACTUAL": 23,
-                "METROS CUBICOS": 18,
-                "MONTO EN BS": 80
             }
         ]
     },
